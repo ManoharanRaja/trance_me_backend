@@ -1,0 +1,28 @@
+# FastAPI and web server dependencies
+fastapi
+uvicorn
+pydantic
+python-multipart
+python-dotenv
+
+# Database connectivity
+sqlalchemy
+snowflake-connector-python  
+psycopg2-binary
+PyMySQL
+google-cloud-bigquery
+# Data processing and analysis
+pyodbc
+pandas
+networkx
+numpy
+
+# Async support
+asyncio
+aiofiles
+
+# Development and testing
+pytest
+pytest-asyncio
+black
+flake8
